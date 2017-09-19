@@ -1,0 +1,6 @@
+[submodule "discovery"]
+	path = discovery
+	url = git@github.com:umeshwalagedara/discovery.git
+[submodule "vehicleManagement"]
+	path = vehicleManagement
+	url = git@github.com:umeshwalagedara/vehicleManagement.git
