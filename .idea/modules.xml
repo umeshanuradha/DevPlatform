@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DevPlatform.iml" filepath="$PROJECT_DIR$/.idea/modules/DevPlatform.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DevPlatform_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DevPlatform_main.iml" group="DevPlatform" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DevPlatform_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DevPlatform_test.iml" group="DevPlatform" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery_main.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery_main.iml" group="discovery" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery_test.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery_test.iml" group="discovery" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vehicleManagement.iml" filepath="$PROJECT_DIR$/.idea/modules/vehicleManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vehicleManagement_main.iml" filepath="$PROJECT_DIR$/.idea/modules/vehicleManagement_main.iml" group="vehicleManagement" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vehicleManagement_test.iml" filepath="$PROJECT_DIR$/.idea/modules/vehicleManagement_test.iml" group="vehicleManagement" />
+    </modules>
+  </component>
+</project>
